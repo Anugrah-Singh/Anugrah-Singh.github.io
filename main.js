@@ -25,9 +25,9 @@ document.addEventListener('DOMContentLoaded', () => {
   if (typewriterElement) {
     const typewriterLines = [
       '> Initializing Anugrah Singh system environment...',
-      '> Loading AI Multi-Agent Orchestration Engine [OK]',
-      '> Connecting 51 REST API routes on PostgreSQL [OK]',
-      '> Synchronizing Socket.IO real-time rooms [OK]',
+      '> Booting 8-agent LLM tournament engine & Redis quotas [OK]',
+      '> Migrating PostgreSQL data layer with Drizzle ORM [OK]',
+      '> Securing 5-level RBAC and authenticated Socket.IO rooms [OK]',
       '> Status: All systems operational. Ready for deployment.'
     ];
 
